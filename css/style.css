@@ -41,3 +41,32 @@
     margin-bottom: 1px;
 }
 
+.list {
+    margin-top: 30px;
+}
+
+table {
+    width: 100%;
+    text-align: left;
+}
+
+td {
+    height: 50px;
+}
+
+.last-table-row {
+    width: 50%;
+}
+
+table {
+    border-collapse:collapse;
+}
+
+th {
+    background-color: rgb(68, 157, 247);
+    color: white;
+}
+
+.row1, .row3 {
+    background-color: lightblue;
+}
