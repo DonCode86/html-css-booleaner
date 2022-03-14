@@ -49,6 +49,7 @@
 table {
     width: 100%;
     text-align: left;
+    border-collapse:collapse;
 }
 
 td {
@@ -57,10 +58,6 @@ td {
 
 .last-table-row {
     width: 50%;
-}
-
-table {
-    border-collapse:collapse;
 }
 
 th {
