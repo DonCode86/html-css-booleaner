@@ -70,3 +70,28 @@ th {
 .row1, .row3 {
     background-color: lightblue;
 }
+
+.interests {
+    color: grey;
+    font-size: medium;
+}
+
+.last-img1, .last-img2 {
+    height: 190px;
+    width: 215px;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.last-img1 {
+     background-image: url("../img/monitor.jpg");
+}
+
+.last-img2 {
+    background-image: url("../img/graph.jpg");
+    margin-top: 10px;
+}
